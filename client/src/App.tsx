@@ -258,7 +258,7 @@ function App() {
   return (
     <main>
       <div className="header">
-        <h1>CARLA Web UI</h1>
+        <h1>ACS DEMO UI</h1>
       </div>
       <div className="body">
         <div className="left-controls">

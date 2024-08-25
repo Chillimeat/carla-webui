@@ -1,4 +1,4 @@
-describe('CARLA Web UI Tests', () => {
+describe('ACS DEMO UI Tests', () => {
     beforeEach(() => {
         // Intercept API calls and mock responses if necessary
         cy.intercept('GET', '/api/carla/world_info', {
